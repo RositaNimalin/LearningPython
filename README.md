@@ -1,1 +1,1 @@
-# LearningPython
+# Playing with Python Series
